@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
-<h3 align="left">Databases:</h3>
+<h3 align="left">Db:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
